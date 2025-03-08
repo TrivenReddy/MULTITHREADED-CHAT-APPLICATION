@@ -30,4 +30,6 @@ Real-time Communication: Clients receive messages in real time.
 User Input Handling: Reads user input using Scanner and sends it to the server.
 Threaded Message Reading: A separate thread listens for incoming messages from the server.
 
-##OUTPUT:
+##OUTPUT:![Image](https://github.com/user-attachments/assets/c0a88284-c2d3-42ae-8152-87e4352f5f3f)
+
+![Image](https://github.com/user-attachments/assets/473ce9f2-8b93-4b85-97e7-b97d539688b9)
